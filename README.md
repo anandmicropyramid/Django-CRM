@@ -16,9 +16,9 @@ This is divided into three parts
  Runcode is online developer workspace. It is cloud based simple, secure and ready to code workspaces, assuring high performance & fully configurable coding environment. With runcode you can run django-crm(API) with one-click.
 
 
-- Open below link to create django-crm workspace on [RunCode](https://runcode.io/ "RunCode"). It will cretae django-crm API
+- Open below link to create django-crm workspace on [RunCode](http://localhost:3001/). It will cretae django-crm API
 
-[![RunCode](https://runcode-app-public.s3.amazonaws.com/images/dark_btn.png)](http://localhost:3001/)
+[![RunCode](https://runcode-app-public.s3.amazonaws.com/images/dark_btn.png)](http://localhost:3001)
 
 - After running API, Go to Frontend UI [React CRM](https://github.com/MicroPyramid/react-crm "React CRM") project to cretae new workpsace with runcode.
 
